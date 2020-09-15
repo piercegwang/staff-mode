@@ -1,0 +1,29 @@
+* staff-mode
+
+This is /staff-mode/, an Emacs minor mode for writing ideas on staff paper.
+
+* Version Planning
+
+** Version 0.1
+
+- [ ] Staff paper creation
+- [ ] Add time signatures (using "Small" font)
+
+** Version 0.2
+
+- [ ] Whole note input (with ledger lines)
+- [ ] Half, quarters, eighth, and sixteenth notes
+- [ ] Dotted notes
+
+** Version 0.3
+
+- [ ] Add key signatures
+  - ♭ ♯
+
+** Version 0.4
+- [ ] Automatic line/measure wrapping
+- [ ] Automatic note entering
+  - Like musescore
+- [ ] Automatic clef drawing
+
+
